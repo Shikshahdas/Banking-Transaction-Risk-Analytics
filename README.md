@@ -342,18 +342,3 @@ docs/                          # Supporting documentation
 
 ---
 
-# Author
-
-**Christelle Janine Lureñana**  
-Designed the database, implemented the fraud detection logic, and developed the Power BI dashboard.
-
-**Email:** lchristellejanine@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/lurenanachristellejanine/  
-**GitHub:** https://github.com/janinelurenana
-
-
----
-
-# License
-
-This project is provided for educational and portfolio purposes.
